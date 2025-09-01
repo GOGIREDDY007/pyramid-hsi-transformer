@@ -33,9 +33,4 @@ pyramid-hsi-transformer/
 │   └── confusion_matrix.png
 │
 
----
-## Classification Map
-<img width="398" height="362" alt="image" src="https://github.com/user-attachments/assets/3421f690-c273-44e7-89be-97239b16cb9a" />
-
-
 
