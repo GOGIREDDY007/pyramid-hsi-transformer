@@ -14,4 +14,28 @@ The model leverages **spatial-spectral attention** and **hierarchical feature le
 
 ---
 
+## 📂 Repository Structure
+```bash
+pyramid-hsi-transformer/
+│── main.py                        # Original implementation
+│── README.md                      # Project documentation
+│── requirements.txt                # Dependencies
+│
+├── metrics/                        # Model evaluation metrics & plots
+│   ├── distribution_plot.png
+│   ├── inputimage_map.png
+│   ├── outputimage_map.png
+│   └── pixelsignature_plot.png
+│
+├── results/                        # Classification results & comparisons
+│   ├── groundtruth_map.png
+│   ├── classification_map.png
+│   └── confusion_matrix.png
+│
+
+---
+## Classification Map
+<img width="398" height="362" alt="image" src="https://github.com/user-attachments/assets/3421f690-c273-44e7-89be-97239b16cb9a" />
+
+
 
